@@ -64,9 +64,9 @@ rikky_moduleを導入している必要があります。
 
 	- サイドオプション (0, 1, 2)<br>
 	  波形を描画する方向を設定します。
-	  - 0 = 上下両方向
-	  - 1 = 上方向のみ
-	  - 2 = 下方向のみ
+	  - 0 = 上下両方向 ![SideOptionが0の場合](./Image/SideOption_0.png)
+	  - 1 = 上方向のみ ![SideOptionが1の場合](./Image/SideOption_1.png)
+	  - 2 = 下方向のみ ![SideOptionが2の場合](./Image/SideOption_2.png)
 
 ## ライセンス
 MITライセンス<br>
