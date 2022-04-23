@@ -77,3 +77,6 @@ FFTを使用しているので、[After Effects](https://www.adobe.com/jp/produc
 ## ライセンス
 MITライセンス<br>
 詳しくは同梱のLICENSEをご覧ください。
+
+## 紹介動画
+制作中... しばしお待ちを
