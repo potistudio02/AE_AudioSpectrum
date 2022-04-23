@@ -3,7 +3,7 @@ AviUtlで音声波形を描画するスクリプトです。<br>
 FFTを使用しているので、[After Effects](https://www.adobe.com/jp/products/aftereffects.html)の音声波形と同じ形状、動きの波形ができます。
 
 ## 要件
-rikky_moduleを導入している必要があります。
+[Rikky Module](https://hazumurhythm.com/wev/amazon/?script=NRMv2q9Q&keyword=rikky_module&search_price=&sort=viewh&filter=all&page=1)を導入している必要があります。
 
 ## ファイル内容
   - **AE_AudioSpectrum.obj**<br>
@@ -17,6 +17,12 @@ rikky_moduleを導入している必要があります。
 
   - **LICENSE**<br>
 	このスクリプトのライセンスについて書かれています。
+
+## 導入方法
+  - 自分のAviUtlにrikky_moduleが導入されているかを確認します。
+  - 同梱のREADMEを読んで、使い方、注意事項を確認します。
+  - AE_AudioSpectrum.objをAviUtlのscriptフォルダにコピーします。
+  - AviUtlを開いて、動作確認をします。
 
 ## 設定項目
   - **トラックバー**<br>
