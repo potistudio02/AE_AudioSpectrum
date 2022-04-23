@@ -58,9 +58,9 @@ rikky_moduleを導入している必要があります。
 
 	- ディスプレイオプション (0, 1, 2)<br>
 	  描画する波形の種類を設定します。<br>
-	  - 0 = 先端が丸い波形
-	  - 1 = 先端が平らな波形
-	  - 2 = 点のみの波形
+	  - 0 = 先端が丸い波形 ![DisplayOptionが0の場合](./Image/DisplayOption_0.png)
+	  - 1 = 先端が平らな波形 ![DisplayOptionが1の場合](./Image/DisplayOption_1.png)
+	  - 2 = 点のみの波形 ![DisplayOptionが2の場合](./Image/DisplayOption_2.png)
 
 	- サイドオプション (0, 1, 2)<br>
 	  波形を描画する方向を設定します。
