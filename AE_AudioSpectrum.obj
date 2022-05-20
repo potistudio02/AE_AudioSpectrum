@@ -19,7 +19,6 @@ obj.setfont ("MS UI Gothic", 50, 0, 0xffffff)
 obj.setoption ("drawtarget", "tempbuffer", obj.screen_w, obj.screen_h)
 
 -------- •Ï” --------
---/ ƒgƒ‰ƒbƒN•Ï” /--
 local startPoint = obj.track0 - obj.screen_w / 2
 local endPoint = obj.track1 - obj.screen_w / 2
 local frequencyBand = obj.track2
@@ -29,7 +28,6 @@ local totalLength = endPoint - startPoint
 
 local currentFrame, totalFrame = rikky_module.getinfo ("frame")
 
---/ AUDIO /--
 local spectrumBuffer = {}
 
 error = false
